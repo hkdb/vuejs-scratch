@@ -1,4 +1,4 @@
-# VUE.JS Quick-Start
+# VUE.JS Quick-Start from Scratch
 maintained by: hkdb `<hkdb@3df.io>`
 
 <font size="16"><img src="readme/vue.png" height="100"> + <img src="readme/webpack.png" height="100"> + <img src="readme/yarn.svg" height="100"></font>
